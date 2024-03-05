@@ -23,9 +23,11 @@ The 10_project_data_annotations.csv file contains fictitious genomic information
 ![Graph1](https://github.com/KAKADIYAS/Data_Visualisation_Python/assets/97363259/e6b05fe1-d53b-4e68-995d-99f50e4f69c8)
 
 
+
  ## Version2: -
  
 ![Graph2](https://github.com/KAKADIYAS/Data_Visualisation_Python/assets/97363259/f8e5cb80-df72-4baa-8166-ed005ed60eca)
+
 
 
  ## Version3: -
